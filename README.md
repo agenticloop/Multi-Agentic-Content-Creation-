@@ -1,5 +1,8 @@
 # Multi-Agentic Content Creation System Using Smolagents
 
+![image](https://github.com/user-attachments/assets/7137e4e5-4eab-4bab-b8ef-b89171959869)
+
+
 Welcome to the **Multi-Agentic Content Creation System**, a powerful framework designed to automate content creation across multiple platforms. This system leverages a network of specialized agents to research, create, optimize, and distribute high-quality content. From blog posts to social media updates, everything is orchestrated to ensure a seamless, engaging experience for content creators and marketers.
 
 ## 🚀 Overview
@@ -141,11 +144,15 @@ Framework: FastAPI
 Agentic library: Smolagents
 
 
+
+
 ### 📜 License
 This project is licensed under the Apache 2.0 License.
 
 
-📢 Contributing
+
+
+### 📢 Contributing
 We welcome contributions! If you would like to contribute to the development of this project, please follow these steps:
 
 Fork the repository
@@ -155,7 +162,9 @@ Create a branch for your feature or bugfix
 Submit a pull request with a detailed explanation of your changes
 
 
-📞 Support
+
+
+### 📞 Support
 For any questions or business inquiries, please:
 
 Reach out at contact@agenticloop.co or visit www.agenticloop.co
